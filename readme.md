@@ -26,11 +26,6 @@ The IMDb dataset consists of 50,000 movie reviews labeled as positive or negativ
     pip install -r requirements.txt
     ```
 
-3. Run the script:
-
-    ```bash
-    python main.py
-    ```
 
 ## Model Architecture
 
